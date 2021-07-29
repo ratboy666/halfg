@@ -1,0 +1,12 @@
+Back in August 1974, Popular Electronics published the plans for
+the "Scopewriter". This was a device that would display 32 characters
+in a single line on an oscilloscope.
+
+I took the raster character set set as published, and display
+messages using this character font. I used 2x2 graphics using UTF-8
+(supported by most terminal emulators). This gives 160x48 graphics.
+
+I wrote this program in MicoSoft BASIC-80 (MBASIC) -- halfg.bas
+
+The main purpose is to illustrate 2x2 cell graphics on XTERM and
+other terminal emulators.
